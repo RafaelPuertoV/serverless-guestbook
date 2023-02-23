@@ -1,5 +1,5 @@
 /**
- * Web application
+ * RPV - Web application 
  */
 const apiUrl = 'https://us-south.functions.appdomain.cloud/api/v1/web/33349da0-e070-43da-b520-71aa26047dcc/guestbook';
 const guestbook = {
